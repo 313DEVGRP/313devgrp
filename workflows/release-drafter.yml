@@ -5,6 +5,7 @@ on:
     # 어느 브랜치에 push가 되었을 때 작동할지 설정
     branches:
       - main
+      - master
   # autolabeler 를 실행시킬 pull_request 이벤트를 설정
   pull_request:
     types: [opened, reopened, synchronize]
