@@ -1,5 +1,5 @@
-name-template: 'v$RESOLVED_VERSION 🌈' ## 릴리즈 제목
-tag-template: 'v$RESOLVED_VERSION' ## 태그
+name-template: 'v$RESOLVED_VERSION 🌈'
+tag-template: 'v$RESOLVED_VERSION'
 categories:
   - title: '🚀 Features'
     labels:
@@ -25,28 +25,7 @@ version-resolver:
     labels:
       - 'patch'
   default: patch
-template: | # 릴리즈 내용 
-  ## Changes (v$RESOLVED_VERSION)
+template: |
+  ## Changes
 
   $CHANGES
-autolabeler: # PR에 자동으로 label 붙혀주는 규칙
-  - label: 'chore'
-    files:
-      - '*.md'
-    branch:
-      - '/docs{0,1}\/.+/'
-    title:
-      - '/chore/i'
-  - label: 'bug'
-    branch:
-      - '/fix\/.+/'
-    title:
-      - '/fix/i'
-      - '/hotfix/i'
-      - '/bug/i'
-  - label: 'feature'
-    title:
-      - '/feat/i'
-    branch:
-      - '/feature\/.+/'
-      - '/feat\/.+/'
