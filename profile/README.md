@@ -9,7 +9,7 @@
 
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=jstree" alt="jstree" />
+<img src="https://github-profile-trophy.vercel.app/?username=jstree&column=4&margin-w=15&margin-h=15" alt="jstree" />
 </a> 
 </p>
 
