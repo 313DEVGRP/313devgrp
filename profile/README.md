@@ -13,11 +13,6 @@
 </a> 
 </p>
 
-<h3 align="left">Java Service Tree Framework tech Compose:</h3>
-<a href="http://www.313.co.kr/313devgrp/arc.jpg">
-    <img src="http://www.313.co.kr/313devgrp/arc.jpg" alt="313아키텍쳐" />
-</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">Mail : <a href="mailto:313cokr@gmail.com">313cokr@gmail.com</a></p>
 <p align="left">Phone : <a href="tel:010-5093-7313">010-5093-7313</a></p>
