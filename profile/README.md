@@ -2,7 +2,8 @@
 
 [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
 
-Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
+Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations,
+and even repositories!
 
 <table>
   <tr>
@@ -40,16 +41,32 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
         <img width="900" height="1" alt="">
       </td>
   </tr>
- 
-</table>
+  <tr>
+    <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
+    <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
+        <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
+        <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Repositories and diff history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.history.svg" alt=""></img></details>
+        <details><summary>Compact display in base plugin</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
 
+</table>
 
 # 📚 Documentation
 
-
-> <sup>*⚠️ This is the documentation of **v3.35-beta** (`@master`/`@main` branches) which includes [unreleased features](https://github.com/lowlighter/metrics/compare/latest...master) planned for next release. See documentation for current released version [**v3.34** (`@latest` branch) here](https://github.com/lowlighter/metrics/blob/latest/README.md).* </sup>
-
-
+> <sup>*⚠️ This is the documentation of **v3.35-beta** (`@master`/`@main` branches) which
+includes [unreleased features](https://github.com/lowlighter/metrics/compare/latest...master) planned for next release.
+See documentation for current released
+version [**v3.34** (`@latest` branch) here](https://github.com/lowlighter/metrics/blob/latest/README.md).* </sup>
 
 ## 🦮 Setup
 
@@ -70,13 +87,14 @@ There are several ways to setup metrics, each having its advantages and disadvan
 * [🔧 Local setup for development *(~20 min)*](/.github/readme/partials/documentation/setup/local.md)
 
 Additional resources for setup:
+
 * [🏦 Configure metrics for organizations](/.github/readme/partials/documentation/organizations.md)
 * [🏠 Run metrics on self-hosted runners](/.github/readme/partials/documentation/selfhosted.md)
 * [🧰 Template/Plugin compatibility matrix](/.github/readme/partials/documentation/compatibility.md)
+
 ## 🖼️ Templates
 
 Templates lets you change general appearance of rendered metrics.
-
 
 * [📗 Classic template <sub>`classic`</sub>](/source/templates/classic/README.md)
 * [📘 Repository template <sub>`repository`</sub>](/source/templates/repository/README.md)
@@ -135,17 +153,26 @@ Plugins provide additional content and lets you customize rendered metrics.
     * [⏰ WakaTime <sub>`wakatime`</sub>](/source/plugins/wakatime/README.md)
 
 **🎲 Maintained by community**
-* **[Community plugins](/source/plugins/community/README.md)**
-    * [🧠 16personalities <sub>`16personalities`</sub>](/source/plugins/community/16personalities/README.md) by [@lowlighter](https://github.com/lowlighter)
-    * [♟️ Chess <sub>`chess`</sub>](/source/plugins/community/chess/README.md) by [@lowlighter](https://github.com/lowlighter)
-    * [🪙 Crypto <sub>`crypto`</sub>](/source/plugins/community/crypto/README.md) by [@dajneem23](https://github.com/dajneem23)
-    * [🥠 Fortune <sub>`fortune`</sub>](/source/plugins/community/fortune/README.md) by [@lowlighter](https://github.com/lowlighter)
-    * [💉 Nightscout <sub>`nightscout`</sub>](/source/plugins/community/nightscout/README.md) by [@legoandmars](https://github.com/legoandmars)
-    * [💩 PoopMap plugin <sub>`poopmap`</sub>](/source/plugins/community/poopmap/README.md) by [@matievisthekat](https://github.com/matievisthekat)
-    * [📸 Website screenshot <sub>`screenshot`</sub>](/source/plugins/community/screenshot/README.md) by [@lowlighter](https://github.com/lowlighter)
-    * [🦑 Splatoon <sub>`splatoon`</sub>](/source/plugins/community/splatoon/README.md) by [@lowlighter](https://github.com/lowlighter)
-    * [💹 Stock prices <sub>`stock`</sub>](/source/plugins/community/stock/README.md) by [@lowlighter](https://github.com/lowlighter)
 
+* **[Community plugins](/source/plugins/community/README.md)**
+    * [🧠 16personalities <sub>`16personalities`</sub>](/source/plugins/community/16personalities/README.md)
+      by [@lowlighter](https://github.com/lowlighter)
+    * [♟️ Chess <sub>`chess`</sub>](/source/plugins/community/chess/README.md)
+      by [@lowlighter](https://github.com/lowlighter)
+    * [🪙 Crypto <sub>`crypto`</sub>](/source/plugins/community/crypto/README.md)
+      by [@dajneem23](https://github.com/dajneem23)
+    * [🥠 Fortune <sub>`fortune`</sub>](/source/plugins/community/fortune/README.md)
+      by [@lowlighter](https://github.com/lowlighter)
+    * [💉 Nightscout <sub>`nightscout`</sub>](/source/plugins/community/nightscout/README.md)
+      by [@legoandmars](https://github.com/legoandmars)
+    * [💩 PoopMap plugin <sub>`poopmap`</sub>](/source/plugins/community/poopmap/README.md)
+      by [@matievisthekat](https://github.com/matievisthekat)
+    * [📸 Website screenshot <sub>`screenshot`</sub>](/source/plugins/community/screenshot/README.md)
+      by [@lowlighter](https://github.com/lowlighter)
+    * [🦑 Splatoon <sub>`splatoon`</sub>](/source/plugins/community/splatoon/README.md)
+      by [@lowlighter](https://github.com/lowlighter)
+    * [💹 Stock prices <sub>`stock`</sub>](/source/plugins/community/stock/README.md)
+      by [@lowlighter](https://github.com/lowlighter)
 
 ## 💪 Contributing
 
@@ -160,8 +187,8 @@ If you are interested in contributing, the following resources may interest you:
     * [📖 GitHub Rest API](https://docs.github.com/en/rest)
     * [📖 GitHub Octicons](https://github.com/primer/octicons)
 
-Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for feedback, new features suggestions, bugs reports or to request help for installation.
-
+Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for feedback, new features suggestions, bugs
+reports or to request help for installation.
 
 ## 📜 License
 
