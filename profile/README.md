@@ -1,201 +1,200 @@
-# 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
+<div align="center">
 
-[![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
+<h1 style="border-bottom: none">
+    <b><a href="https://www.a-rms.net">www.A-RMS.net</a></b><br />
+    ALM + RMS + PMS = A-RMS
+    <br>
+</h1>
+<a href="https://affine.pro/download">
+    <img alt="affine logo" src="https://cdn.affine.pro/Github_hero_image1.png" style="width: 100%">
+</a>
+<br/>
+<p align="center">
+  A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. <br />
+  One hyper-fused platform for wildly creative minds.
+</p>
 
-Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations,
-and even repositories!
+<br/>
 
-<table>
-  <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-</td>
-  </tr>
-  <tr>
-    <th colspan="2" align="center">
-      <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
-    </th>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
-    <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
-        <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
-        <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Repositories and diff history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.history.svg" alt=""></img></details>
-        <details><summary>Compact display in base plugin</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
+<br/>
+<a href="https://www.producthunt.com/posts/affine-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-affine&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=440671&theme=light" alt="AFFiNE - One&#0032;app&#0032;for&#0032;all&#0032;&#0045;&#0032;Where&#0032;Notion&#0032;meets&#0032;Miro | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<br/>
+<br/>
 
-</table>
+<div align="center">
+    <a href="https://affine.pro">Home Page</a> |
+    <a href="https://discord.gg/whd5mjYqVw">Discord</a> |
+    <a href="https://app.affine.pro">Live Demo</a> |
+    <a href="https://affine.pro/blog/">Blog</a> |
+    <a href="https://docs.affine.pro/docs/">Documentation</a>
+</div>
+<br/>
 
-# 📚 Documentation
+[![Releases](https://img.shields.io/github/downloads/toeverything/AFFiNE/total)](https://github.com/toeverything/AFFiNE/releases/latest)
+[![All Contributors][all-contributors-badge]](#contributors)
+[![TypeScript-version-icon]](https://www.typescriptlang.org/)
+[![Rust-version-icon]](https://www.rust-lang.org/)
 
-> <sup>*⚠️ This is the documentation of **v3.35-beta** (`@master`/`@main` branches) which
-includes [unreleased features](https://github.com/lowlighter/metrics/compare/latest...master) planned for next release.
-See documentation for current released
-version [**v3.34** (`@latest` branch) here](https://github.com/lowlighter/metrics/blob/latest/README.md).* </sup>
+</div>
 
-## 🦮 Setup
+<br />
+<div align="center">
+<em>Docs, canvas and tables are hyper-merged with AFFiNE - just like the word affine (əˈfʌɪn | a-fine).</em>
+</div>
+<br />
 
-There are several ways to setup metrics, each having its advantages and disadvantages:
+<div align="center">
+<img src="https://github.com/toeverything/AFFiNE/assets/79301703/49a426bb-8d2b-4216-891a-fa5993642253" style="width: 100%"/>
+</div>
 
-* [⚙️ Using GitHub Action on a profile repository *(~10 min)*](/.github/readme/partials/documentation/setup/action.md)
-    * ✔️ All features
-    * ✔️ High availability (no downtimes)
-    * ➖ Configuration can be a bit time-consuming
-* [💕 Using the shared instance *(~1 min)*](/.github/readme/partials/documentation/setup/shared.md)
-    * ✔️ Easily configurable and previewable
-    * ➖ Limited features *(compute-intensive features are disabled)*
-* [🏗️ Deploying a web instance *(~20 min)*](/.github/readme/partials/documentation/setup/web.md)
-    * ✔️ Create another shared instance
-    * ➖ Requires some sysadmin knowledge
-* [🐳 Using command line with docker *(~2 min)*](/.github/readme/partials/documentation/setup/docker.md)
-    * ✔️ Suited for one-time rendering
-* [🔧 Local setup for development *(~20 min)*](/.github/readme/partials/documentation/setup/local.md)
+## Getting started & staying tuned with us.
 
-Additional resources for setup:
+Star us, and you will receive all release notifications from GitHub without any delay!
 
-* [🏦 Configure metrics for organizations](/.github/readme/partials/documentation/organizations.md)
-* [🏠 Run metrics on self-hosted runners](/.github/readme/partials/documentation/selfhosted.md)
-* [🧰 Template/Plugin compatibility matrix](/.github/readme/partials/documentation/compatibility.md)
+<img src="https://user-images.githubusercontent.com/79301703/230891830-0110681e-8c7e-483b-b6d9-9e42b291b9ef.gif" style="width: 100%"/>
 
-## 🖼️ Templates
+## What is AFFiNE
 
-Templates lets you change general appearance of rendered metrics.
+AFFiNE is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
 
-* [📗 Classic template <sub>`classic`</sub>](/source/templates/classic/README.md)
-* [📘 Repository template <sub>`repository`</sub>](/source/templates/repository/README.md)
-* [📙 Terminal template <sub>`terminal`</sub>](/source/templates/terminal/README.md)
-* [📒 Markdown template <sub>`markdown`</sub>](/source/templates/markdown/README.md)
-* [📕 Community templates <sub>`community`</sub>](/source/templates/community/README.md)
+## Features
 
-## 🧩 Plugins
+**A true canvas for blocks in any form. Docs and whiteboard are now fully merged.**
 
-Plugins provide additional content and lets you customize rendered metrics.
+- Many editor apps claim to be a canvas for productivity, but AFFiNE is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
 
-**📦 Maintained by core team**
+**Multimodal AI partner ready to kick in any work**
 
-* **Core plugins**
-    * [🗃️ Base content <sub>`base`</sub>](/source/plugins/base/README.md)
-    * [🧱 Core <sub>`core`</sub>](/source/plugins/core/README.md)
-* **GitHub plugins**
-    * [🏆 Achievements <sub>`achievements`</sub>](/source/plugins/achievements/README.md)
-    * [📰 Recent activity <sub>`activity`</sub>](/source/plugins/activity/README.md)
-    * [📆 Commit calendar <sub>`calendar`</sub>](/source/plugins/calendar/README.md)
-    * [♐ Random code snippet <sub>`code`</sub>](/source/plugins/code/README.md)
-    * [🏅 Repository contributors <sub>`contributors`</sub>](/source/plugins/contributors/README.md)
-    * [💬 Discussions <sub>`discussions`</sub>](/source/plugins/discussions/README.md)
-    * [🎟️ Follow-up of issues and pull requests <sub>`followup`</sub>](/source/plugins/followup/README.md)
-    * [🎫 Gists <sub>`gists`</sub>](/source/plugins/gists/README.md)
-    * [💡 Coding habits and activity <sub>`habits`</sub>](/source/plugins/habits/README.md)
-    * [🙋 Introduction <sub>`introduction`</sub>](/source/plugins/introduction/README.md)
-    * [📅 Isometric commit calendar <sub>`isocalendar`</sub>](/source/plugins/isocalendar/README.md)
-    * [🈷️ Languages activity <sub>`languages`</sub>](/source/plugins/languages/README.md)
-    * [📜 Repository licenses <sub>`licenses`</sub>](/source/plugins/licenses/README.md)
-    * [👨‍💻 Lines of code changed <sub>`lines`</sub>](/source/plugins/lines/README.md)
-    * [🎩 Notable contributions <sub>`notable`</sub>](/source/plugins/notable/README.md)
-    * [🧑‍🤝‍🧑 People <sub>`people`</sub>](/source/plugins/people/README.md)
-    * [🗂️ GitHub projects <sub>`projects`</sub>](/source/plugins/projects/README.md)
-    * [🎭 Comment reactions <sub>`reactions`</sub>](/source/plugins/reactions/README.md)
-    * [📓 Featured repositories <sub>`repositories`</sub>](/source/plugins/repositories/README.md)
-    * [🌇 GitHub Skyline <sub>`skyline`</sub>](/source/plugins/skyline/README.md)
-    * [💕 GitHub Sponsors <sub>`sponsors`</sub>](/source/plugins/sponsors/README.md)
-    * [💝 GitHub Sponsorships <sub>`sponsorships`</sub>](/source/plugins/sponsorships/README.md)
-    * [✨ Stargazers <sub>`stargazers`</sub>](/source/plugins/stargazers/README.md)
-    * [💫 Star lists <sub>`starlists`</sub>](/source/plugins/starlists/README.md)
-    * [🌟 Recently starred repositories <sub>`stars`</sub>](/source/plugins/stars/README.md)
-    * [💭 GitHub Community Support <sub>`support`</sub>](/source/plugins/support/README.md) <sub>`⚠️ deprecated`</sub>
-    * [📌 Starred topics <sub>`topics`</sub>](/source/plugins/topics/README.md)
-    * [🧮 Repositories traffic <sub>`traffic`</sub>](/source/plugins/traffic/README.md)
-* **Social plugins**
-    * [🌸 Anilist watch list and reading list <sub>`anilist`</sub>](/source/plugins/anilist/README.md)
-    * [🗳️ Leetcode <sub>`leetcode`</sub>](/source/plugins/leetcode/README.md)
-    * [🎼 Music activity and suggestions <sub>`music`</sub>](/source/plugins/music/README.md)
-    * [⏱️ Google PageSpeed <sub>`pagespeed`</sub>](/source/plugins/pagespeed/README.md)
-    * [✒️ Recent posts <sub>`posts`</sub>](/source/plugins/posts/README.md)
-    * [🗼 Rss feed <sub>`rss`</sub>](/source/plugins/rss/README.md)
-    * [🗨️ Stack Overflow <sub>`stackoverflow`</sub>](/source/plugins/stackoverflow/README.md)
-    * [🕹️ Steam <sub>`steam`</sub>](/source/plugins/steam/README.md)
-    * [🐤 Latest tweets <sub>`tweets`</sub>](/source/plugins/tweets/README.md) <sub>`⚠️ deprecated`</sub>
-    * [⏰ WakaTime <sub>`wakatime`</sub>](/source/plugins/wakatime/README.md)
+- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, AFFiNE AI pushes your creativity to the edge of your imagination.
 
-**🎲 Maintained by community**
+**Local-first & Real-time collaborative**
 
-* **[Community plugins](/source/plugins/community/README.md)**
-    * [🧠 16personalities <sub>`16personalities`</sub>](/source/plugins/community/16personalities/README.md)
-      by [@lowlighter](https://github.com/lowlighter)
-    * [♟️ Chess <sub>`chess`</sub>](/source/plugins/community/chess/README.md)
-      by [@lowlighter](https://github.com/lowlighter)
-    * [🪙 Crypto <sub>`crypto`</sub>](/source/plugins/community/crypto/README.md)
-      by [@dajneem23](https://github.com/dajneem23)
-    * [🥠 Fortune <sub>`fortune`</sub>](/source/plugins/community/fortune/README.md)
-      by [@lowlighter](https://github.com/lowlighter)
-    * [💉 Nightscout <sub>`nightscout`</sub>](/source/plugins/community/nightscout/README.md)
-      by [@legoandmars](https://github.com/legoandmars)
-    * [💩 PoopMap plugin <sub>`poopmap`</sub>](/source/plugins/community/poopmap/README.md)
-      by [@matievisthekat](https://github.com/matievisthekat)
-    * [📸 Website screenshot <sub>`screenshot`</sub>](/source/plugins/community/screenshot/README.md)
-      by [@lowlighter](https://github.com/lowlighter)
-    * [🦑 Splatoon <sub>`splatoon`</sub>](/source/plugins/community/splatoon/README.md)
-      by [@lowlighter](https://github.com/lowlighter)
-    * [💹 Stock prices <sub>`stock`</sub>](/source/plugins/community/stock/README.md)
-      by [@lowlighter](https://github.com/lowlighter)
+- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, AFFiNE supports real-time sync and collaborations on web and cross-platform clients.
 
-## 💪 Contributing
+**Self-host & Shape your own AFFiNE**
 
-If you are interested in contributing, the following resources may interest you:
+- You have the freedom to manage, self-host, fork and build your own AFFiNE. Plugin community and third-party blocks are coming soon. More tractions on [Blocksuite](https://blocksuite.io). Check there to learn how to [self-host AFFiNE](https://docs.affine.pro/docs/self-host-affine).
 
-* [💪 Contribution guide](/CONTRIBUTING.md)
-* [🧬 Architecture](/ARCHITECTURE.md)
-* [📜 License](/LICENSE)
-* **:octocat: GitHub resources**
-    * [📖 GitHub GraphQL API](https://docs.github.com/en/graphql)
-    * [📖 GitHub GraphQL Explorer](https://docs.github.com/en/free-pro-team@latest/graphql/overview/explorer)
-    * [📖 GitHub Rest API](https://docs.github.com/en/rest)
-    * [📖 GitHub Octicons](https://github.com/primer/octicons)
+## Acknowledgement
 
-Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for feedback, new features suggestions, bugs
-reports or to request help for installation.
+“We shape our tools and thereafter our tools shape us”. A lot of pioneers have inspired us along the way, e.g.:
 
-## 📜 License
+- Quip & Notion with their great concept of “everything is a block”
+- Trello with their Kanban
+- Airtable & Miro with their no-code programmable datasheets
+- Miro & Whimiscal with their edgeless visual whiteboard
+- Remote & Capacities with their object-based tag system
 
-```
-MIT License
-Copyright (c) 2020-present lowlighter
-```
+There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
 
-![Sponsors](https://github.com/lowlighter/metrics/blob/examples/metrics.sponsors.svg)
+Thanks for checking us out, we appreciate your interest and sincerely hope that AFFiNE resonates with you! 🎵 Checking https://affine.pro/ for more details ions.
 
+## Contributing
+
+| Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions/Discussions                                                         | AFFiNE Community                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [Create a bug report](https://github.com/toeverything/AFFiNE/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/toeverything/AFFiNE/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Check GitHub Discussion](https://github.com/toeverything/AFFiNE/discussions) | [Vist the AFFiNE Community](https://community.affine.pro) |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | Discuss and ask questions                                                     | A place to ask, learn and engage with others              |
+
+Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
+
+**Before you start contributing, please make sure you have read and accepted our [Contributor License Agreement]. To indicate your agreement, simply edit this file and submit a pull request.**
+
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/toeverything/AFFiNE/issues/new/choose) and choose the most appropriate template for your feedback.
+
+For **translation** and **language support** you can visit our [i18n General Space](https://community.affine.pro/c/i18n-general).
+
+Looking for **other ways to contribute** and wondering where to start? Check out the [AFFiNE Ambassador program](https://community.affine.pro/c/start-here/affine-ambassador), we work closely with passionate community members and provide them with a wide range of support and resources.
+
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [AFFiNE Community](https://community.affine.pro) where you can engage with other like-minded individuals.
+
+## Ecosystem
+
+| Name                                             |                            |                                                                                                                                         |
+| ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [@affine/component](packages/frontend/component) | AFFiNE Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@toeverything/theme](packages/common/theme)     | AFFiNE theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
+
+## Upstreams
+
+We would also like to give thanks to open-source projects that make AFFiNE possible:
+
+- [Blocksuite](https://github.com/toeverything/BlockSuite) - 💠 BlockSuite is the open-source collaborative editor project behind AFFiNE.
+- [OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
+- [yjs](https://github.com/yjs/yjs) - Fundamental support of CRDTs for our implementation on state management and data sync.
+- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+- [React](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API.
+- [Jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React.
+- [async-call-rpc](https://github.com/Jack-Works/async-call-rpc) - A lightweight JSON RPC client & server.
+- [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling.
+- Other upstream [dependencies](https://github.com/toeverything/AFFiNE/network/dependencies).
+
+Thanks a lot to the community for providing such powerful and simple libraries, so that we can focus more on the implementation of the product logic, and we hope that in the future our projects will also provide a more easy-to-use knowledge base for everyone.
+
+## Contributors
+
+We would like to express our gratitude to all the individuals who have already contributed to AFFiNE! If you have any AFFiNE-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-affine](https://github.com/toeverything/awesome-affine).
+
+<a href="https://github.com/toeverything/affine/graphs/contributors">
+  <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
+</a>
+
+## Self-Host
+
+Begin with Docker to deploy your own feature-rich, unrestricted version of AFFiNE. Our team is diligently updating to the latest version. For more information on how to self-host AFFiNE, please refer to our [documentation](https://docs.affine.pro/docs/self-host-affine).
+
+## Hiring
+
+Some amazing companies, including AFFiNE, are looking for developers! Are you interested in joining AFFiNE or its partners? Check out our Discord channel for some of the latest jobs available.
+
+## Feature Request
+
+For feature requests, please see [community.affine.pro](https://community.affine.pro/c/feature-requests/).
+
+## Building
+
+### Codespaces
+
+From the GitHub repo main page, click the green "Code" button and select "Create codespace on master". This will open a new Codespace with the (supposedly auto-forked
+AFFiNE repo cloned, built, and ready to go.
+
+### Local
+
+See [BUILDING.md] for instructions on how to build AFFiNE from source code.
+
+## Contributing
+
+We welcome contributions from everyone.
+See [docs/contributing/tutorial.md](./docs/contributing/tutorial.md) for details.
+
+## Thanks
+
+<a href="https://www.chromatic.com/"><img src="https://user-images.githubusercontent.com/321738/84662277-e3db4f80-af1b-11ea-88f5-91d67a5e59f6.png" width="153" height="30" alt="Chromatic" /></a>
+
+Thanks to [Chromatic](https://www.chromatic.com/) for providing the visual testing platform that helps us review UI changes and catch visual regressions.
+
+## License
+
+### Editions
+
+- AFFiNE Community Edition (CE) is the current available version, it's free for self-host under the MIT license.
+
+- AFFiNE Enterprise Edition (EE) is yet to be published, it will have more advanced features and enterprise-oriented offerings, including but not exclusive to rebranding and SSO, advanced admin and audit, etc., you may refer to https://affine.pro/pricing for more information
+
+See [LICENSE] for details.
+
+[all-contributors-badge]: https://img.shields.io/github/contributors/toeverything/AFFiNE
+[license]: ./LICENSE
+[building.md]: ./docs/BUILDING.md
+[update page]: https://affine.pro/blog?tag=Release%20Note
+[jobs available]: ./docs/jobs.md
+[latest packages]: https://github.com/toeverything/AFFiNE/pkgs/container/affine-self-hosted
+[contributor license agreement]: https://github.com/toeverything/affine/edit/canary/.github/CLA.md
+[rust-version-icon]: https://img.shields.io/badge/Rust-1.79.0-dea584
+[stars-icon]: https://img.shields.io/github/stars/toeverything/AFFiNE.svg?style=flat&logo=github&colorB=red&label=stars
+[codecov]: https://codecov.io/gh/toeverything/affine/branch/canary/graphs/badge.svg?branch=canary
+[node-version-icon]: https://img.shields.io/badge/node-%3E=18.16.1-success
+[typescript-version-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/affine/dev/typescript
+[react-version-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/AFFiNE/react?filename=packages%2Ffrontend%2Fcore%2Fpackage.json&color=rgb(97%2C228%2C251)
+[blocksuite-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/AFFiNE/@blocksuite/store?color=6880ff&filename=packages%2Ffrontend%2Fcore%2Fpackage.json&label=blocksuite
