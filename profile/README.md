@@ -3,7 +3,7 @@
 </a>
 
 # 📜 A-RMS is.
-<span style="color:#E49400; font-size:18px; font-weight:bold;">A</span>LM <sup>( Jira, Redmine, Gitlab... )</sup> integrated<br>
+<span style="color:#E49400; font-size:18px; font-weight:bold;">A</span>LM<sup>( Jira, Redmine, Gitlab... )</sup> integrated<br>
 <span style="color:#E49400; font-size:18px; font-weight:bold;">R</span>equirement Base<br>
 Project <span style="color:#E49400; font-size:18px; font-weight:bold;">M</span>anagement <span style="color:#E49400; font-size:18px; font-weight:bold;">S</span>ystem
 
