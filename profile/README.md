@@ -10,7 +10,7 @@ Project Management System
 
 # 📚 Documentation
 > ⚠️ This is the documentation of **A-RMS** 
-> which includes [unreleased features](http://313.co.kr/php/gnuboard5/bbs/board.php?bo_table=releasenote) planned for next release. 
+> which includes [unreleased features](http://313.co.kr/php/gnuboard5/bbs/board.php?bo_table=releasenote) planned for next release.<br>
 > See documentation for current [**User Manual**](http://313.co.kr/document/dist/)
 
 
@@ -19,14 +19,13 @@ Project Management System
 
 There are several ways to setup metrics, each having its advantages and disadvantages:
 
-* [🐳 Using command line with docker *(~2 min)*](/.github/readme/partials/documentation/setup/docker.md)
-    * ✔️ Suited for one-time rendering
-* [🔧 Local setup for development *(~20 min)*](/.github/readme/partials/documentation/setup/local.md)
+* 🐳 A-RMS 는 Docker 를 지향합니다.
+    * ✔️ Docker Swarm Cluster 를 통하여, OnPremise 환경을 지원하며,
+    * ✔️ Kubernetes 를 통하여, Cloud 환경을 지원하며, 멀티 테넌시를 활용한 SaaS 서비스를 제공합니다.
+* 🔧 개발환경에 관한 내용은 아래를 참조 부탁드립니다.
+    * ✔️ Spring Profile 은 dev 로 고정하시고, 각 MSA 모듈의 Root Path에는 개발규칙.txt 가 존재합니다.
+    * ✔️ 또한, README.md 파일을 통해서 필요한 패키지 정보와 함께 아키텍쳐를 구성할 수 있도록 지원했습니다.
 
-Additional resources for setup:
-* [🏦 Configure metrics for organizations](/.github/readme/partials/documentation/organizations.md)
-* [🏠 Run metrics on self-hosted runners](/.github/readme/partials/documentation/selfhosted.md)
-* [🧰 Template/Plugin compatibility matrix](/.github/readme/partials/documentation/compatibility.md)
 ## 🖼️ Templates
 
 Templates lets you change general appearance of rendered metrics.
