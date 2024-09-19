@@ -9,9 +9,9 @@ Requirement Base<br>
 Project Management System
 
 # 📚 Documentation
-> <sup>*⚠️ This is the documentation of **A-RMS** 
+> ⚠️ This is the documentation of **A-RMS** 
 > which includes [unreleased features](http://313.co.kr/php/gnuboard5/bbs/board.php?bo_table=releasenote) planned for next release. 
-> See documentation for current [**User Manual**](http://313.co.kr/document/dist/) </sup>
+> See documentation for current [**User Manual**](http://313.co.kr/document/dist/)
 
 
 
