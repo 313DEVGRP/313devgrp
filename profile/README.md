@@ -120,9 +120,6 @@ Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for 
 ## 📜 License
 
 ```
-MIT License
-Copyright (c) 2020-present lowlighter
+LGPL2 License & Commercial License
+Copyright 2012-present (c)313DEVGRP
 ```
-
-![Sponsors](https://github.com/lowlighter/metrics/blob/examples/metrics.sponsors.svg)
-
