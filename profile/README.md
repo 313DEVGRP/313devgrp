@@ -11,6 +11,7 @@ Project Management System
 > ⚠️ This is the documentation of **A-RMS** 
 > which includes [unreleased features](http://313.co.kr/php/gnuboard5/bbs/board.php?bo_table=releasenote) planned for next release.<br>
 > See documentation for current [**User Manual**](http://313.co.kr/document/dist/)
+<img alt="a-rms architecture" src="https://www.a-rms.net/arms/img/concept.png" style="width: 100%">
 
 
 
