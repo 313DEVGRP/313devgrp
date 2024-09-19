@@ -1,13 +1,6 @@
-<a href="https://www.a-rms.net">
-    <img alt="a-rms concept" src="https://www.a-rms.net/arms/img/313_logo_large_drop.png" style="width: 200px">
-</a>
-<br>
-A-RMS 는, ALM 기반 RMS 시스템이며, Issue 를 재 수집하여, PMS 기능을 제공하는 솔루션 입니다.
 
-<br>
-<br>
 <a href="https://www.a-rms.net">
-    <img alt="a-rms concept" src="https://www.a-rms.net/arms/img/concept.png" style="width: 100%">
+    <img alt="a-rms concept" src="https://www.a-rms.net/arms/img/screenshot/title.png" style="width: 100%">
 </a>
 
 <table>
