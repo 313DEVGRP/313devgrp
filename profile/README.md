@@ -28,7 +28,7 @@ There are several ways to setup metrics, each having its advantages and disadvan
 ## 🧬 PLE Architecture
 Templates lets you change general appearance of rendered metrics.
 
-<img alt="a-rms concept" src="https://www.a-rms.net/arms/img/screenshot/arc16.png" style="width: 100%">
+<img alt="a-rms architecture" src="https://www.a-rms.net/arms/img/screenshot/arc16.png" style="width: 100%">
 
 ## 🧩 Plugins
 
