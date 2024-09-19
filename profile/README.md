@@ -1,4 +1,3 @@
-
 <a href="https://www.a-rms.net">
     <img alt="a-rms concept" src="https://www.a-rms.net/arms/img/screenshot/title.png" style="width: 100%">
 </a>
@@ -26,16 +25,10 @@ There are several ways to setup metrics, each having its advantages and disadvan
     * ✔️ Spring Profile 은 dev 로 고정하시고, 각 MSA 모듈의 Root Path에는 개발규칙.txt 가 존재합니다.
     * ✔️ 또한, README.md 파일을 통해서 필요한 패키지 정보와 함께 아키텍쳐를 구성할 수 있도록 지원했습니다.
 
-## 🖼️ Templates
-
+## 🖼️ PLE Architecture
 Templates lets you change general appearance of rendered metrics.
 
-
-* [📗 Classic template <sub>`classic`</sub>](/source/templates/classic/README.md)
-* [📘 Repository template <sub>`repository`</sub>](/source/templates/repository/README.md)
-* [📙 Terminal template <sub>`terminal`</sub>](/source/templates/terminal/README.md)
-* [📒 Markdown template <sub>`markdown`</sub>](/source/templates/markdown/README.md)
-* [📕 Community templates <sub>`community`</sub>](/source/templates/community/README.md)
+<img alt="a-rms concept" src="https://www.a-rms.net/arms/img/screenshot/arc16.png" style="width: 100%">
 
 ## 🧩 Plugins
 
