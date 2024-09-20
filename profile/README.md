@@ -26,7 +26,7 @@ There are several ways to setup metrics, each having its advantages and disadvan
     * ✔️ Spring Profile 은 dev 로 고정하시고, 각 MSA 모듈의 Root Path에는 개발규칙.txt 가 존재합니다.
     * ✔️ 또한, README.md 파일을 통해서 필요한 패키지 정보와 함께 아키텍쳐를 구성할 수 있도록 지원했습니다.
 
-<img alt="a-rms architecture" src="https://www.a-rms.net/arms/img/screenshot/arc16.png" style="width: 100%">
+<img alt="a-rms architecture" src="https://www.a-rms.net/arms/img/arms_tech.drawio.png" style="width: 100%">
 
 ## 🧬 PLE Architecture
 Templates lets you change general appearance of rendered metrics.
