@@ -29,13 +29,15 @@ There are several ways to setup metrics, each having its advantages and disadvan
 <img alt="a-rms architecture" src="https://www.a-rms.net/arms/img/arms_tech.drawio.png" style="width: 100%">
 
 ## 🧬 PLE Architecture
-Templates lets you change general appearance of rendered metrics.
+313DEVGRP 는 PLE 아키텍쳐를 지향합니다. 따라서, 하나의 아키텍쳐와 알고리즘으로 다양한 제품과 솔루션에 대응하는 방법을 고민합니다.
 
 <img alt="ple architecture" src="https://www.a-rms.net/arms/img/index/ple.jpg" style="width: 100%">
 
 ## 🧩 Plugins
 
-Plugins provide additional content and lets you customize rendered metrics.
+암스는 다양한 오픈소스 플러그인을 활용합니다. 특히나 Spring 의 경우는 Cloud Framework 의 모든 플러그인을 활용하고 있으며,<br>
+추가로 활용되는 Frontend 의 플러그인은 custermize 하여 ARMS와 integration 합니다.<br>
+아래는 활용되는 오픈소스의 라이선스를 기재하며, 라이선스 요구를 준수하기 위하여 노력합니다.
 
 **📦 Maintained by core team**
 
@@ -53,7 +55,9 @@ Plugins provide additional content and lets you customize rendered metrics.
 
 ## 💪 Contributing
 
-If you are interested in contributing, the following resources may interest you:
+우리 ARMS 팀은 외부 컨트리뷰션에 관대합니다.<br>
+단, ARMS 가 지향하는 목적과 부합하는 기술적 활용에 대한 컨트리뷰션이어야 하며,<br>
+ARMS 팀은 Project Management 의 Criping scope을 경계하고 있습니다.
 
 * [💪 Contribution guide](/CONTRIBUTING.md)
 * [🧬 Architecture](/ARCHITECTURE.md)
