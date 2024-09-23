@@ -17,7 +17,9 @@ Project **M**anagement **S**ystem
 
 ## 🦮 Setup
 
-There are several ways to setup metrics, each having its advantages and disadvantages:
+ARMS는 MSA 모듈 구조를 활용했습니다. 따라서, Docker Base 로 Artifact를 운영하며,<br>
+각 모듈을 Build 시 Dev profile 을 활용하며, Docker Image 는 Nexus 를 활용하여 <br>
+Docekr Swarm 및 Kubernetes 를 기반으로 운영한다.
 
 * 🐳 A-RMS 는 Docker 를 지향합니다.
     * ✔️ Docker Swarm Cluster 를 통하여, OnPremise 환경을 지원하며,
@@ -48,11 +50,6 @@ There are several ways to setup metrics, each having its advantages and disadvan
     * [🏆 Achievements <sub>`achievements`</sub>](/source/plugins/achievements/README.md)
     * [📰 Recent activity <sub>`activity`</sub>](/source/plugins/activity/README.md)
 
-**🎲 Maintained by community**
-* **[Community plugins](/source/plugins/community/README.md)**
-    * [🧠 16personalities <sub>`16personalities`</sub>](/source/plugins/community/16personalities/README.md) by [@lowlighter](https://github.com/lowlighter)
-    * [♟️ Chess <sub>`chess`</sub>](/source/plugins/community/chess/README.md) by [@lowlighter](https://github.com/lowlighter)
-
 ## 💪 Contributing
 
 우리 ARMS 팀은 외부 컨트리뷰션에 관대합니다.<br>
@@ -62,8 +59,6 @@ ARMS 팀은 Project Management 의 Criping scope을 경계하고 있습니다.
 * [💪 Contribution guide](/CONTRIBUTING.md)
 * [🧬 Architecture](/ARCHITECTURE.md)
 * [📜 License](/LICENSE)
-
-Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for feedback, new features suggestions, bugs reports or to request help for installation.
 
 
 ## 📜 License
