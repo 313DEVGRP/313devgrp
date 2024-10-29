@@ -1,7 +1,3 @@
-<a href="https://www.a-rms.net">
-    <img alt="a-rms concept" src="https://www.a-rms.net/arms/img/screenshot/title.png" style="width: 100%">
-</a>
-
 # 📜 A-RMS is.
 **A**LM<sup>( Jira, Redmine, Gitlab... )</sup> integrated<br>
 **R**equirement Base<br>
@@ -11,9 +7,6 @@ Project **M**anagement **S**ystem
 > ⚠️ This is the documentation of **A-RMS** 
 > which includes [unreleased features](http://313.co.kr/php/gnuboard5/bbs/board.php?bo_table=releasenote) planned for next release.<br>
 > See documentation for current [**User Manual**](http://313.co.kr/document/dist/)
-<img alt="a-rms architecture" src="https://www.a-rms.net/arms/img/concept.png" style="width: 100%">
-
-
 
 ## 🦮 Setup
 
@@ -28,12 +21,8 @@ Docekr Swarm 및 Kubernetes 를 기반으로 운영한다.
     * ✔️ Spring Profile 은 dev 로 고정하시고, 각 MSA 모듈의 Root Path에는 개발규칙.txt 가 존재합니다.
     * ✔️ 또한, README.md 파일을 통해서 필요한 패키지 정보와 함께 아키텍쳐를 구성할 수 있도록 지원했습니다.
 
-<img alt="a-rms architecture" src="https://www.a-rms.net/arms/img/arms_tech.drawio.png" style="width: 100%">
-
 ## 🧬 PLE Architecture
 313DEVGRP 는 PLE 아키텍쳐를 지향합니다. 따라서, 하나의 아키텍쳐와 알고리즘으로 다양한 제품과 솔루션에 대응하는 방법을 고민합니다.
-
-<img alt="ple architecture" src="https://www.a-rms.net/arms/img/index/ple.jpg" style="width: 100%">
 
 ## 🧩 Plugins
 
