@@ -64,6 +64,6 @@ ARMS 팀은 Project Management 의 Criping scope을 경계하고 있습니다.
 ## 📜 License
 
 ```
-LGPL2 License & Commercial License
+MIT License
 Copyright 2012-present (c)313DEVGRP
 ```
