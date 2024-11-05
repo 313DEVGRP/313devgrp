@@ -1,5 +1,5 @@
 # 📜 A-RMS is.
-**A**LM<sup>( Jira, Redmine, Gitlab... )</sup> integrated<br>
+**A**LM<sup>( Jira, Redmine, GitLab... )</sup> integrated<br>
 **R**equirement Base<br>
 Project **M**anagement **S**ystem
 
@@ -10,15 +10,15 @@ Project **M**anagement **S**ystem
 
 ## 🦮 Setup
 
-ARMS는 MSA 모듈 구조를 활용했습니다. 따라서, Docker Base 로 Artifact를 운영하며,<br>
+A-RMS는 MSA 모듈 구조를 활용했습니다. 따라서, Docker Base 로 Artifact를 운영하며,<br>
 각 모듈을 Build 시 Dev profile 을 활용하며, Docker Image 는 Nexus 를 활용하여 <br>
-Docekr Swarm 및 Kubernetes 를 기반으로 운영한다.
+Docker Swarm 및 Kubernetes 를 기반으로 운영한다.
 
 * 🐳 A-RMS 는 Docker 를 지향합니다.
     * ✔️ Docker Swarm Cluster 를 통하여, OnPremise 환경을 지원하며,
     * ✔️ Kubernetes 를 통하여, Cloud 환경을 지원하며, 멀티 테넌시를 활용한 SaaS 서비스를 제공합니다.
 * 🔧 개발환경에 관한 내용은 아래를 참조 부탁드립니다.
-    * ✔️ Spring Profile 은 dev 로 고정하시고, 각 MSA 모듈의 Root Path에는 개발규칙.txt 가 존재합니다.
+    * ✔️ Spring Profile 은 dev 로 고정하며, 각 MSA 모듈의 Root Path에는 개발규칙.txt 가 존재합니다.
     * ✔️ 또한, README.md 파일을 통해서 필요한 패키지 정보와 함께 아키텍쳐를 구성할 수 있도록 지원했습니다.
 
 ## 🧬 PLE Architecture
@@ -26,8 +26,8 @@ Docekr Swarm 및 Kubernetes 를 기반으로 운영한다.
 
 ## 🧩 Plugins
 
-암스는 다양한 오픈소스 플러그인을 활용합니다. 특히나 Spring 의 경우는 Cloud Framework 의 모든 플러그인을 활용하고 있으며,<br>
-추가로 활용되는 Frontend 의 플러그인은 custermize 하여 ARMS와 integration 합니다.<br>
+A-RMS는 다양한 오픈소스 플러그인을 활용합니다. 특히나 Spring 의 경우는 Cloud Framework 의 모든 플러그인을 활용하고 있으며,<br>
+추가로 활용되는 Frontend 의 플러그인은 custermize 하여 A-RMS와 integration 합니다.<br>
 아래는 활용되는 오픈소스의 라이선스를 기재하며, 라이선스 요구를 준수하기 위하여 노력합니다.
 
 **📦 Maintained by core team**
@@ -41,9 +41,9 @@ Docekr Swarm 및 Kubernetes 를 기반으로 운영한다.
 
 ## 💪 Contributing
 
-우리 ARMS 팀은 외부 컨트리뷰션에 관대합니다.<br>
-단, ARMS 가 지향하는 목적과 부합하는 기술적 활용에 대한 컨트리뷰션이어야 하며,<br>
-ARMS 팀은 Project Management 의 Criping scope을 경계하고 있습니다.
+우리 A-RMS 팀은 외부 컨트리뷰션에 관대합니다.<br>
+단, A-RMS 가 지향하는 목적과 부합하는 기술적 활용에 대한 컨트리뷰션이어야 하며,<br>
+A-RMS 팀은 Project Management 의 Scope Creep 을 경계하고 있습니다.
 
 * [💪 Contribution guide](/CONTRIBUTING.md)
 * [🧬 Architecture](/ARCHITECTURE.md)
